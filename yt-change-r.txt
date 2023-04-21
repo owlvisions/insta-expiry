@@ -1,4 +1,4 @@
-Версия 6. Изменения:
+Версия 7. Изменения:
 
 >Added Short Video Comments Copy
 >Added Dislike Button
