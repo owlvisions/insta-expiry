@@ -1,7 +1,7 @@
 
     "update_enforcement": "not_mandatory",
     "message": "\nYou can also install manually from https://t.me/SirAmun\n",
-    "version_code": "50551",
+    "version_code": "50552",
     "version_name": "v2.0.0r",
     "apk_url": "https://github.com/fvision8/fvreleases/releases/download/v2.0.0r/FlixVision_v2.0.0r.apk",
     "iptv_url":"https://iptv-org.github.io/iptv/index.country.m3u",
